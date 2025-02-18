@@ -1,3 +1,3 @@
-# X-E-Speech-demopage
+# ZCL-EDIFF-demopage
 
-https://X-E-Speech.github.io/X-E-Speech-demopage
+https://ZCL-EDiff.github.io/ZCL-EDiff-demopage
